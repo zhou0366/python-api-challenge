@@ -2,6 +2,9 @@
 Used the method outlined here to manually create a gitignore file after creating the repository 
 https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+The following stackoverflow solution was used to fix my blank image outputs for the linear regression section in the weather data code
+https://stackoverflow.com/questions/9012487/savefig-outputs-blank-image
+
 For programming, the methodology used follows example code written for class exercises
 
 ## Weather
